@@ -1,0 +1,29 @@
+{
+  "name": "discord-reply-wrapper",
+  "version": "1.0.0",
+  "description": "Replaces Message.reply in discord.js with an inline reply",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theusaf/discord-reply-wrapper.git"
+  },
+  "keywords": [
+    "discord.js",
+    "reply",
+    "discord.js",
+    "inline"
+  ],
+  "author": "theusaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theusaf/discord-reply-wrapper/issues"
+  },
+  "homepage": "https://github.com/theusaf/discord-reply-wrapper#readme",
+  "dependencies": {
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3"
+  }
+}
