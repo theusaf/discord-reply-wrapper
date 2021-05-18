@@ -50,8 +50,9 @@ client.login("TOKEN");
 |options|[MessageOptions](https://discord.js.org/#/docs/main/stable/typedef/MessageOptions) or [MessageAdditions](https://discord.js.org/#/docs/main/stable/typedef/MessageAdditions)|Yes|`{}`|The options to provide|
 
 > Returns: [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)<([Message](https://discord.js.org/#/docs/main/stable/class/Message)|[Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)<[Message](https://discord.js.org/#/docs/main/stable/class/Message)>)>
->
-> Examples:
+
+Examples:
+
 ```js
 // Reply to a message (inline)
 message.reply('Hey, I\'m a reply!', {
