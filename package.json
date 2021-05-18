@@ -1,6 +1,6 @@
 {
   "name": "discord-reply-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replaces Message.reply in discord.js with an inline reply",
   "main": "index.js",
   "scripts": {
